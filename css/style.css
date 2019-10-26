@@ -1,0 +1,170 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 1.1rem;
+  background-color: #E4F9F5;
+  line-height: 2;
+  color: #40514E;
+}
+
+h1 {
+  font-size: 4.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Merienda', cursive;
+  color: #66BFBF;
+  font-weight: lighter;
+}
+
+h2 {
+  font-family: 'ZCOOL XiaoWei', serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'ZCOOL XiaoWei', serif;
+  font-size: 2rem;
+  color: #11999E;
+  font-weight: normal;
+}
+
+div {
+  background-color: #E4F9F5;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 70px;
+}
+
+.middle-container {
+position: relative;
+
+}
+
+.profile {
+  margin: 70px auto 70px auto;
+}
+
+
+  .skills {
+    width: 70%;
+    margin: 50px auto 70px auto;
+    line-height: 2;
+  }
+  .skill-row {
+    width: 70%;
+    margin: 50px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+  }
+
+.contact-me {
+  margin: 100px auto 60px auto;
+  width: 45%;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 30px 0 10px 0;
+  line-height: 2;
+  margin-bottom: 0;
+}
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #66BFBF;
+    border-width: 7px;
+    width: 6%;
+  }
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 60px;
+  left: 945px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 300px;
+  left: 300px;
+}
+
+.dp {
+  border-radius: 50%;
+}
+
+.coding {
+border-radius: 50%;
+  width: 35%;
+  float: left;
+  margin-right: 50px;
+  margin-top: 20px;
+
+}
+
+.gaming {
+  border-radius: 50%;
+  width: 25%;
+  float: right;
+  margin-left: 50px;
+}
+
+.btn {
+	box-shadow: 0 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #92d3eb 5%, #408c99 100%);
+	background-color:#92d3eb;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'ZCOOL XiaoWei', serif;
+	font-size:18px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #3d768a;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #92d3eb 100%);
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.foot {
+  background-color: #E4F9F5;
+  margin: 0 20px;
+  border-radius: 50%;
+}
+.foot:hover {
+  -moz-box-shadow: 0 0 10px #ccc;
+      -webkit-box-shadow: 0 0 10px #ccc;
+      box-shadow: 0 0 10px #ccc;
+}
+
+.profile-para {
+  width: 40%;
+  margin: 0 auto;
+  line-height: 2;
+}
+
+.contact-message {
+  padding-bottom: 40px;
+}
+
+.copyright {
+  font-size: 0.75rem;
+  margin-bottom: 0;
+  color: #ffffff;
+}
